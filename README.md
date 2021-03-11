@@ -5,8 +5,8 @@
 Welcome to my profile!<br/>
 I'm Mykola - a 20 year old developer, pursuing a career in web dev!
 
- - 🌐 Visit my website [here](http://mbalabash.tech/)!
- - 🎓 Studying at Lutsk National Technical University
+ 🌐 Visit my website [here](http://mbalabash.tech/)!  
+ 🎓 Studying at Lutsk National Technical University  
  - 👨🏻‍💻 Creating awesome stuff at [NDA]() & [Barva](https://barvagroup.com)
  - 🇺🇦 Ukrainian
  - 📍 Based in Kyiv, UA
