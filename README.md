@@ -11,7 +11,7 @@ I'm Mykola - a 20 year old developer, pursuing a career in web dev!
  🇺🇦 Ukrainian  
  📍 Based in Kyiv, UA  
  ⚙️ Engineer  
- 🚀 Interested in all things space  
+ 🚀 Interested in all space-related things   
 
 ## 🔬 Technologies and tools I use
 
