@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://twitter.com/twilderan"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> &nbsp; <a href="https://www.linkedin.com/in/twilderan"><img alt="LinkedIn" title="LinkedIn" width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png"></a>
+  <a href="https://twitter.com/twilderan"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> &nbsp; <a href="https://www.linkedin.com/in/twilderan/"><img alt="LinkedIn" title="LinkedIn" width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png"></a>
 </p>
 
 Welcome to my profile!<br/>
