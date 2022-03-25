@@ -5,7 +5,7 @@
 Welcome to my profile!<br/>
 I'm Mykola - a 21 year old developer, pursuing a career in web dev!
 
- 🌐 Visit my website [here](http://mykolabalabash.com/)!  
+ 🌐 Visit my website [here](https://mykolabalabash.com/)!  
  🎓 Graduated with a Bachelor's degree in Computer Science  
  👨🏻‍💻 Creating awesome stuff at [Lemberg Solutions](https://lembergsolutions.com) & [Barva](https://barvagroup.com)  
  🇺🇦 Ukrainian  
