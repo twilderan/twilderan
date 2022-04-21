@@ -10,7 +10,6 @@ I'm Mykola - a 21 year old developer, pursuing a career in web dev!
  👨🏻‍💻 Creating awesome stuff at [Lemberg Solutions](https://lembergsolutions.com) & [Barva](https://barvagroup.com)  
  🇺🇦 Ukrainian  
  📍 Based in Kyiv, UA  
- ⚙️ Engineer  
  🚀 Interested in all space-related things   
 
 ## 🔬 Technologies and tools I use
