@@ -7,7 +7,7 @@ I'm Mykola - a 22 year old developer, pursuing a career in web dev!
 
  🌐 Visit my website [here](https://mykolabalabash.com/)!  
  🎓 Graduated with a Bachelor's degree in Computer Science  
- 👨🏻‍💻 Creating awesome stuff at [Lemberg Solutions](https://lembergsolutions.com) & [Barva](https://barvagroup.com)  
+ 👨🏻‍💻 Leading teams, solving business problems  
  🇺🇦 Ukrainian  
  📍 Based in Kyiv, UA  
  🚀 Interested in all space-related things   
